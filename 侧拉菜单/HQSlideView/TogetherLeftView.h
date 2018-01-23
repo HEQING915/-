@@ -10,4 +10,6 @@
 
 @interface TogetherLeftView : UIView
 
+@property (nonatomic , strong) NSArray *dataArr;
+
 @end
